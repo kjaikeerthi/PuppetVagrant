@@ -20,7 +20,6 @@ class rvm{
 
 
 include rvm
-include rvm
 
 group { "puppet": 
     ensure => "present", 
